@@ -1,0 +1,10 @@
+数据来源：
+
+美国旧金山与阿拉斯加锡特卡8月最高最低温度csv文件：
+https://www.ncdc.noaa.gov/cdo-web 
+
+全球地震散点图：
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php 
+
+
+
